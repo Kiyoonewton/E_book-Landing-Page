@@ -1,0 +1,21 @@
+#intro {
+  padding: 60px 0;
+  /* background-color: red; */
+}
+.navbar-expand-md {
+  margin: 20px 60px;
+}
+
+@media screen and (max-width: 550px) {
+  .navbar-expand-md {
+    margin: 0;
+  }
+}
+
+#contact {
+  margin: 50px 0;
+}
+
+.btn-primary {
+  background-color: #c29983;
+}
